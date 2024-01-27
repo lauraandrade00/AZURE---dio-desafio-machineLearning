@@ -2,7 +2,7 @@
 Este é o repositório do projeto de Machine Learning Automatizado no Azure para previsão de vendas de bicicletas. O objetivo deste projeto é desenvolver um modelo de previsão de vendas de bicicletas utilizando um conjunto de dados fictício e disponibilizar esse modelo por meio de pontos de extremidade configurados.
 
 ## Fonte de Dados
-Os dados utilizados neste projeto são fictícios e foram gerados para simular vendas de bicicletas ao longo do tempo. Todo os dados são encontrados na documentação oficial "Explore Automated Machine Learning in Azure Machine Learning"([clique aqui]([https://docs.microsoft.com/azure/machine-learning/](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#use-automated-machine-learning-to-train-a-model))
+Os dados utilizados neste projeto são fictícios e foram gerados para simular vendas de bicicletas ao longo do tempo. Todo os dados são encontrados na documentação oficial "Explore Automated Machine Learning in Azure Machine Learning"[clique aqui]([https://docs.microsoft.com/azure/machine-learning/](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#use-automated-machine-learning-to-train-a-model)
  O conjunto de dados inclui informações como data, temperatura, precipitação, feriados, entre outros fatores relevantes para a previsão de vendas.
 
 ## Modelo de Previsão
@@ -25,10 +25,10 @@ Após o treinamento do modelo, foram configurados pontos de extremidade no Azure
 
 - Exemplos de Código: Este repositório inclui exemplos de código para demonstrar como fazer solicitações aos pontos de extremidade e processar os resultados das previsões.
 
-- Contribuições
+- Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull para melhorar este projeto.
 
-- Licença
+- Licença:
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 Este projeto foi oferecido como parte do processo para obtenção da certificação AI-900 da [Digital Innovation One (Dio)](https://digitalinnovation.one/) em parceria com a Microsoft!
