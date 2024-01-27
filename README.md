@@ -1,4 +1,4 @@
-### Projeto de ML Automatizado no Azure: Previsão de Vendas de Bicicletas
+# Projeto de ML Automatizado no Azure: Previsão de Vendas de Bicicletas
 Este é o repositório do projeto de Machine Learning Automatizado no Azure para previsão de vendas de bicicletas. O objetivo deste projeto é desenvolver um modelo de previsão de vendas de bicicletas utilizando um conjunto de dados fictício e disponibilizar esse modelo por meio de pontos de extremidade configurados.
 
 ## Fonte de Dados
