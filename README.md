@@ -1,6 +1,9 @@
 # Projeto de ML Automatizado no Azure: Previsão de Vendas de Bicicletas
 Este é o meu repositório do projeto de Machine Learning Automatizado no Azure para previsão de vendas de bicicletas. O objetivo deste projeto é desenvolver um modelo de previsão de vendas de bicicletas utilizando um conjunto de dados fictício e disponibilizar esse modelo por meio de pontos de extremidade configurados.
 
+## Descrição da minha experiência
+Inicialmente realizei a minha inscrição na plataforma da Azure, logo em seguida criei meu recurso de machine learning devidamente configurando e também meu espaço de trabalho, onde eu reuni todos os dados para o processo de automatização de tarefas seguindo o guia da própria plataforma. Além disso, conforme documentado, realizei as adições para que meu algoritmo me mostrasse as saídas esperadas para a previsão de vendas de acordo com meus testes e assim pude realizar as validações de métricas e gerar os gráficos, tais como o residual e o de previsão real. Usando o modelo base de endpoints testei então com valores fictícios e conforme segue no meu arquivo .json, obtive uma resposta. Essa foi uma descrição sucinta do meu passo a passo, de muito aprendizado agregado paralelo.
+
 ## Fonte de Dados
 Os dados utilizados neste projeto são fictícios e foram gerados para simular vendas de bicicletas ao longo do tempo. Todo os dados são encontrados na documentação oficial "Explore Automated Machine Learning in Azure Machine Learning" ([clique aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#use-automated-machine-learning-to-train-a-model)).
  O conjunto de dados inclui informações como data, temperatura, precipitação, feriados, entre outros fatores relevantes para a previsão de vendas.
